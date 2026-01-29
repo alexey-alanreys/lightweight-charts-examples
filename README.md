@@ -14,5 +14,5 @@ This project is part of an educational series focused on creating web-based fina
 
 ---
 
-**License:** MIT  
-**Author:** [Albert Alan-Reys](https://github.com/albert-alanreys)
+**License:** MIT
+**Author:** [Alexey Alan-Reys](https://github.com/alexey-alanreys)
